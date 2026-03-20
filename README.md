@@ -3,7 +3,7 @@ Emulators for your Kindle Fire 7!!!
 
 <h1 align="center">Emulator List</h1>
 these arent the downloads, The downloads are in releases ;)
-![RetroArch](https://www.retroarch.com/images/logo.png)
+<img src="https://www.retroarch.com/images/logo.png" width="600" alt="RetroArch Logo">
 
 <h1 align="center">Credits</h1>
 
