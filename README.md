@@ -1,7 +1,7 @@
 # Emulators
 Emulators for your Kindle Fire 7!!!
 
-Credits
+<h1 align="center">Credits</h1>
 
 The Libretro Team
 
